@@ -34,4 +34,4 @@ Follow below to install and create tables:
 * **industries** - *name(sting).*
 
 ERD:
-https://www.lucidchart.com/documents/edit/d90a0578-1c1d-431a-972f-80e8aebe122c
+https://www.lucidchart.com/invitations/accept/1c04c64d-46c3-4ecf-b4a5-45687fd17f67
